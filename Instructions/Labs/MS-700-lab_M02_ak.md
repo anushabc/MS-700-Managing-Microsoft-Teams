@@ -133,7 +133,7 @@ In this task, Lynne Robbins will continue testing the self-service capabilities 
 
 3. Close the Teams web client.
 
-You have successfully created a new team with the Teams web client. This is the end of lab 1. You can close all browser windows and proceed to the next lab.
+You have successfully created a new team with the Teams web client. This is the end of lab 1. .
 #### Task 1 – Activate sensitivity labels for Teams 
 
 You need to evaluate governance for Microsoft 365 Groups before deploying them in your organizations. In this task, you will activate the sensitivity labels for Teams in Azure AD, for being able to assign labels in a following task.
