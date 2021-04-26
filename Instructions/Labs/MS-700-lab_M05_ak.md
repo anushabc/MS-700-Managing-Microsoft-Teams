@@ -1,13 +1,6 @@
----
-lab:
-    title: 'Lab 05: Modify collaboration settings for Teams'
-    type: 'Answer Key'
-    module: 'Module 5: Manage collaboration in Microsoft Teams'
----
+
 
 # **Lab 05: Modify collaboration settings for Teams**
-
-# **Student lab answer key**
 
 ## **Lab Scenario**
 
@@ -38,6 +31,12 @@ After you complete this lab, you will be able to:
 - **Estimated Time:** 90 minutes.
 
 ## **Instructions**
+
+
+```
+Note : 
+Please note that odl_userXXXXX@<YourTenant>.onmicrosoft.com is your administrator user and you should use odl_userXXXXX@<YourTenant>.onmicrosoft.com in place of MOD Administrator (admin@<YourTenant>.onmicrosoft.com) throughout this lab
+```
 
 ### **Exercise 1: Configure channel and message policies**
 
