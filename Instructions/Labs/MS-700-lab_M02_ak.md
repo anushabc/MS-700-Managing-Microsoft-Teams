@@ -42,7 +42,7 @@ After you complete this lab, you will be able to:
 Your organization has started the planning process for Microsoft 365 services adoption. You are assigned as a Teams admin role to plan Teams governance. Since Teams relies on Microsoft 365 groups, you need to plan governance procedures for Microsoft 365 groups, including creating, configuring and assigning sensitivity labels, creating Microsoft 365 groups expiration policies, configuring Microsoft 365 Group creation policy permissions, configuring and test Microsoft 365 Groups naming policies.
 
 
-#### Assign Teams Admin Roles to users**
+#### Assign Teams Admin Roles to users
 
 In this task, you will use the default global admin to login to the Microsoft 365 admin center and assign several teams admin roles to different users. This task is crucial for the following tasks and exercises because you will perform most of the tasks in context of Joni Sherman’s account.
 
@@ -57,11 +57,11 @@ In this task, you will use the default global admin to login to the Microsoft 36
 You have now successfully assigned the Teams admin role to Joni Sherman and the Teams communications support engineer to Allan Deyoung. Proceed to the next task.
 
 
-### ** Create groups and teams**
+### Create groups and teams
 
 In this exercise, you will create some resources required in later tasks. These include creating a Microsoft 365 Group from the Microsoft 365 admin center and creating a team in the Desktop client and then the web client.
 
-#### **Create a Microsoft 365 Group**
+#### Create a Microsoft 365 Group
 
 In real world scenarios, the Microsoft 365 Groups would already exist and your task as Teams Administrator would only be to enable their Teams functionality, but for this lab you need to create them manually.
 
@@ -89,7 +89,7 @@ You will create the new Microsoft 365 Group named "IT-Department" and then add t
 
 The new Microsoft 365 Group with the name "IT-Department" was successfully created. Close the browser window and continue to the next task.
 
-#### ** Create a new team by using the desktop client**
+#### Create a new team by using the desktop client
 
 To test the self-service capabilities of Teams, in this task, Megan Bowen will sign in to the Teams Desktop client, create a new team with the name "Teams Rollout" and add all members participating in the Teams evaluation project.
 
@@ -113,7 +113,7 @@ To test the self-service capabilities of Teams, in this task, Megan Bowen will s
 
 You have successfully created a new team with the Teams Desktop client, added the project team members and you have made Joni Sherman a second owner of the team. Close the Teams client and continue with the next task.
 
-#### **Create a new team by using the web client**
+#### Create a new team by using the web client
 
 In this task, Lynne Robbins will continue testing the self-service capabilities of Teams by using the Teams web client to create another team with the name "Sales". She will also add Megan Bowen as a member.
 
