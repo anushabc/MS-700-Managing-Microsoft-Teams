@@ -7,8 +7,6 @@ lab:
 
 # **Lab 04: Manage teams**
 
-# **Student lab answer key**
-
 ## **Lab Scenario**
 
 In the labs of this course, you will assume the role of Joni Sherman, a Teams Administrator for Contoso Ltd. In this lab, you will perform operational tasks as a Teams administrator, such as creating and modifying teams, managing membership, and recovering deleted teams. In the second half of this lab, you will configure the guest access for your tenant and review access for both, internal and external users.
@@ -38,6 +36,99 @@ After you complete this lab, you will be able to:
 - **Estimated Time:** 90 minutes.
 
 ## **Instructions**
+
+#### Assign Teams Admin Roles to users
+
+In this task, you will use the default global admin to login to the Microsoft 365 admin center and assign several teams admin roles to different users. This task is crucial for the following tasks and exercises because you will perform most of the tasks in context of Joni Sherman’s account.
+
+1. Sign in to the **Microsoft 365 admin center** ([**https://admin.microsoft.com**](https://admin.microsoft.com/)) using **MOD Administrator** (admin@&lt;YourTenant&gt;.onmicrosoft.com).
+
+2. Assign the role of the **Teams Administrator** to **Joni Sherman**.
+
+3. Assign the role of the **Teams communication support engineer** to **Allan Deyoung**.
+
+4. Leave the client open at the **Microsoft 365 admin center**.
+
+You have now successfully assigned the Teams admin role to Joni Sherman and the Teams communications support engineer to Allan Deyoung. Proceed to the next task.
+
+
+### Create groups and teams
+
+In this exercise, you will create some resources required in later tasks. These include creating a Microsoft 365 Group from the Microsoft 365 admin center and creating a team in the Desktop client and then the web client.
+
+#### Create a Microsoft 365 Group
+
+In real world scenarios, the Microsoft 365 Groups would already exist and your task as Teams Administrator would only be to enable their Teams functionality, but for this lab you need to create them manually.
+
+You will create the new Microsoft 365 Group named "IT-Department" and then add the pilot members serving as a basis for your future teams and licensing.
+
+1. Sign in to the **Microsoft 365 admin center** ([**https://admin.microsoft.com**](https://admin.microsoft.com/)) as **Joni Sherman** (JoniS@&lt;YourTenant&gt;.onmicrosoft.com).
+
+2. Create and configure a new Microsoft 365 group with the following settings:
+
+	- Name: **IT-Department**
+
+	- Description: **All staff of the IT-Department**
+
+	- Owners: **Joni Sherman**
+
+	- Group email address: **IT-Department**@&lt;YourTenant&gt;.onmicrosoft.com
+
+	- Privacy: **Private – Only members can see group content**
+
+	- Create a team for this group: **Clear the checkbox**
+
+	- Members: **Alex Wilber, Allan Deyoung, Lynne Robbins** and **Megan Bowen**
+
+3. Close the **Microsoft 365 admin center**.
+
+The new Microsoft 365 Group with the name "IT-Department" was successfully created. Close the browser window and continue to the next task.
+
+#### Create a new team by using the desktop client
+
+To test the self-service capabilities of Teams, in this task, Megan Bowen will sign in to the Teams Desktop client, create a new team with the name "Teams Rollout" and add all members participating in the Teams evaluation project.
+
+1. Connect to the **Client 2 VM** with the credentials that have been provided to you.
+
+2. Connect to a client and sign in to the Teams Desktop client using **Megan Bowen** (MeganB@&lt;YourTenant&gt;.onmicrosoft.com).
+
+3. Create a new team with the following settings:
+
+	- Type: **Build a team from scratch**
+
+	- Privacy: **Public**
+
+	- Name: **Teams Rollout**
+
+	- Owners: **Joni Sherman** and **Megan Bowen**
+
+	- Members: **Alex Wilber**, **Allan Deyoung** and **Lynne Robbins**
+
+4. Close the Teams Desktop client.
+
+You have successfully created a new team with the Teams Desktop client, added the project team members and you have made Joni Sherman a second owner of the team. Close the Teams client and continue with the next task.
+
+#### Create a new team by using the web client
+
+In this task, Lynne Robbins will continue testing the self-service capabilities of Teams by using the Teams web client to create another team with the name "Sales". She will also add Megan Bowen as a member.
+
+1. Sign in to the Teams web client ([**https://teams.microsoft.com**](https://teams.microsoft.com/)) using **Lynne Robbins** (LynneR@&lt;YourTenant&gt;.onmicrosoft.com).
+
+2. Create a new team with the following settings:
+
+	- Type: **Build a team from scratch**
+
+	- Privacy: **Private**
+
+	- Name: **Sales**
+
+	- Owners: **Lynne Robbins**
+
+	- Members: **Megan Bowen**
+
+3. Close the Teams web client.
+
+You have successfully created a new team with the Teams web client. This is the end of lab 1. 
 
 ### **Exercise 1: Manage team resources**
 
