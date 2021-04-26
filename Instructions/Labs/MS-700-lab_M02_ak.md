@@ -37,10 +37,17 @@ After you complete this lab, you will be able to:
 
 ## **Instructions**
 
+
+
 ### **Exercise 1: Implement governance and lifecycle management for Microsoft Teams**
 
 Your organization has started the planning process for Microsoft 365 services adoption. You are assigned as a Teams admin role to plan Teams governance. Since Teams relies on Microsoft 365 groups, you need to plan governance procedures for Microsoft 365 groups, including creating, configuring and assigning sensitivity labels, creating Microsoft 365 groups expiration policies, configuring Microsoft 365 Group creation policy permissions, configuring and test Microsoft 365 Groups naming policies.
 
+
+```
+Note : 
+Please note that odl_userXXXXX@<YourTenant>.onmicrosoft.com is your administrator user and you should use odl_userXXXXX@<YourTenant>.onmicrosoft.com in place of MOD Administrator (admin@<YourTenant>.onmicrosoft.com) throughout this lab
+``` 
 
 #### Assign Teams Admin Roles to users
 
