@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 04: Manage teams'
-    type: 'Answer Key'
-    module: 'Module 4: Deploy and manage teams'
----
 
 # **Lab 04: Manage teams**
 
@@ -36,6 +30,12 @@ After you complete this lab, you will be able to:
 - **Estimated Time:** 90 minutes.
 
 ## **Instructions**
+
+
+```
+Note : 
+Please note that odl_userXXXXX@<YourTenant>.onmicrosoft.com is your administrator user and you should use odl_userXXXXX@<YourTenant>.onmicrosoft.com in place of MOD Administrator (admin@<YourTenant>.onmicrosoft.com) throughout this lab
+```
 
 #### Assign Teams Admin Roles to users
 
