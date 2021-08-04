@@ -301,7 +301,7 @@ After activating sensitivity labels for groups, you will now create three sensit
 
 33. On the **external sharing** page, select the following setting and then select **Next**:
 
-	- **Unmanaged devices:** Allow limited, web-only access.
+    - Select Use **Azure AD Conditional Access to projtect labeled SharePoint sites > Allow limited web-only access**.
 
 34. Select **Next**.
 
