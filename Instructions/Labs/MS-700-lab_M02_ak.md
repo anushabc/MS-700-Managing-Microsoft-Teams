@@ -365,7 +365,7 @@ After activating sensitivity labels for groups, you will now create three sensit
 
 55. On the **external sharing** page select the following setting and then select **Next**:
 
-	- **Unmanaged devices:** Allow limited, web-only access.
+     - Select **Use Azure AD Conditional Access to projtect labeled SharePoint sites > Allow limited web-only access**.
 
 56. Select **Next**.
 
@@ -385,9 +385,15 @@ After activating sensitivity labels for groups, you will now create three sensit
 
 64. Select **Next**.
 
-65. On the **Policy settings** page, open the dropdown menu below **Apply this label by default to documents and email** and select **General** to use it as the default label for document and email.
+65. On the **Policy settings** page keep the default settings and click **Next**.
 
-66. Below **Apply this label by default to groups and sites**, also select the dropdown and select **General**.
+66. Open dropdown menu below **Apply a default label to documents** and select **General** to use it as the default label for documents.
+
+67. Select **Next**.
+
+69. Below **Apply a default label to emails**  select the dropdown and select **General** and click on **Next**
+
+70. Now below **Apply this label by default to groups and sites**, also select the dropdown and select **General**.
 
 67. Select **Next**.
 
