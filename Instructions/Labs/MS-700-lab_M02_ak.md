@@ -243,7 +243,7 @@ After activating sensitivity labels for groups, you will now create three sensit
 
 14. On the **Define external sharing and device access settings** page select the following setting and then select **Next**.
 
-	- **Unmanaged devices:** Allow full access from desktop apps, mobile apps, and the web.
+	-Select **Use Azure AD Conditional Access to projtect labeled SharePoint sites > Allow full access from desktop apps, mobile apps, and the web**.
 
 15. Review your settings and select **Create label** to finish the new label creation.
 
